@@ -1,0 +1,12 @@
+      /* Colores de fondo para cada columna */
+      .card-red {
+        background-color: #FF5733; /* Rojo */
+    }
+    .card-green {
+        background-color: #2ECC71; /* Verde */
+    }
+    .card-blue {
+        background-color: #3498DB; /* Azul */
+    }
+
+    
